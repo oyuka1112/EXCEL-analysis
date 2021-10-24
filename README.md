@@ -14,9 +14,9 @@ The Purpose is to analyze the excel data of over 4000 crodfunding projects. The 
       - Calculated the percentage rate of successful, failed, and canceled projects
       - Created the line chart that illustrates the goal-amount ranges on the x-axis, the percentage of successful, failed, or canceled projects on the y-axis
 - Challenges: 
-  -:thought_balloon: First challenge is that I needed to look at how to change a title for the pivot table's chart. I looked at the Excel documentation and found out how to change it.
-  -:thought_balloon: Second challenge is that I needed to get emoji for the README file, so I looked at [the Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md).
-  -:thought_balloon: Any other possible challenges that could come up, I will definetily search [Google](https://google.com), [Excel documentation](https://support.microsoft.com/en-us/excel), and [Github README documentation](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+  - :thought_balloon: First challenge is that I needed to look at how to change a title for the pivot table's chart. I looked at the Excel documentation and found out how to change it.
+  - :thought_balloon: Second challenge is that I needed to get emoji for the README file, so I looked at [the Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md).
+  - :thought_balloon: Any other possible challenges that could come up, I will definetily search [Google](https://google.com), [Excel documentation](https://support.microsoft.com/en-us/excel), and [Github README documentation](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 ## Results
 ![](https://user-images.githubusercontent.com/64121596/138591613-3f48635d-9a22-475b-9a12-3d95b51e0cce.png)
 - The first conclusion from the Theater Outcomes Based on Launch Date is that there is very few number of canceled theater crowdfunding events than the successful one. Usually it's successful rather than canceled or failed. 
