@@ -26,7 +26,7 @@ The Purpose is to analyze the excel data of over 4000 crodfunding projects. The 
 The crowdfunding from the "plays" subcategory, nothing was canceled. It was either successful or failed.
 
 ### Limitations
-1. The outlier could affect our analysis: the goal 100,000,000
+1. The outlier could affect our analysis: the goal of $100,000,000
 2. Currency difference
 3. Crowdfundings were made in different countries, so it might not well represent every situations.
 ### Possible tables and/or graphs
