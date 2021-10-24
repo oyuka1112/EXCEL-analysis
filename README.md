@@ -13,6 +13,7 @@ The Purpose is to analyze the excel data of over 4000 crodfunding projects. The 
       - Used COUNTIFS() function to get the number of "Number Successful," "Number Failed," and "Number Canceled" columns, based on the project "outcome," the "goal" amount using the goal ranges in Step 3, and the Subcategory "plays"
       - Calculated the percentage rate of successful, failed, and canceled projects
       - Created the line chart that illustrates the goal-amount ranges on the x-axis, the percentage of successful, failed, or canceled projects on the y-axis
+- Challenges: 
   - :thought_balloon: First challenge is that I needed to look at how to change a title for the pivot table's chart. I looked at the Excel documentation and found out how to change it.
   - :thought_balloon: Second challenge is that I needed to get emoji for the README file, so I looked at [the Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md).
   - :thought_balloon: Any other possible challenges that could come up, I will definetily search [Google](https://google.com), [Excel documentation](https://support.microsoft.com/en-us/excel), and [Github README documentation](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
@@ -22,8 +23,15 @@ The Purpose is to analyze the excel data of over 4000 crodfunding projects. The 
 - The second conclusion is that if theater crowdfunding launches during summer (especiually May), it's more likely to be successful.
 
 ![](https://user-images.githubusercontent.com/64121596/138591581-a5891930-c549-499f-979e-4cd9f0818d44.png)
+The crowdfunding from the "plays" subcategory, nothing was canceled. It was either successful or failed.
 
+### Limitations
+1. The outlier could affect our analysis: the goal 100,000,000
+2. Currency difference
+3. Crowdfundings were made in different countries, so it might not well represent every situations.
+### Possible tables and/or graphs
+1. The graph that shows the difference between pledged and goal, whether it was successful, failed, or canceled
+2. The graph that shows the duration of the campaigns, whether it was successful, failed, or canceled
+3. The table that shows by countries
+4. The table that shows by categories
 
-What can you conclude about the Outcomes based on Goals?
-What are some limitations of this dataset?
-What are some other possible tables and/or graphs that we could create?
