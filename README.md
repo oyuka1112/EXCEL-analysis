@@ -1,6 +1,6 @@
 # Excel analysis
 ## Overview of the project
-The Purpose is to analyze the excel data of over 4000 crodfunding projects. The dataset has 4115 rows and 21 columns (kickstarter sheet).To analyze: used filtering and sorting, created pivot tables, used handful formulas, used VLOOKUP, and created useful graphs to better explain the dataset.
+The Purpose is to analyze the excel data of over 4000 crodfunding projects. The dataset has 4115 rows and 21 columns.To analyze: used filtering and sorting, created pivot tables, used handful formulas, used VLOOKUP, and created useful graphs to better explain the dataset.
 
 ## Analysis and Challenges
 - Analysis: 
